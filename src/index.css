@@ -2,11 +2,11 @@
 
 /* variables */
 :root {
-  --heading-color: #444;
-  --text-color: #999;
-  --primary-color: #8d69f1;
+  --heading-color: #bfaeae;
+  --text-color: #8e8c8c;
+  --primary-color: #f9a90a;
   --highlight-color: #d13267;
-  --bg-color: #f4f4f4;
+  --bg-color: #f8c894;
 }
 
 /* base styles */

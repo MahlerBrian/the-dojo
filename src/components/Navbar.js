@@ -5,7 +5,7 @@ import React from 'react'
 
 //styles
 import './Navbar.css'
-import Temple from '../assets/temple.svg'
+import Seeds from '../assets/seeds.svg'
 
 
 export default function Navbar() {
@@ -16,8 +16,8 @@ export default function Navbar() {
     <div className="navbar">
         <ul>
             <li className="logo">
-                <img src={Temple} alt="Dojo logo" />
-                <span>The Dojo</span>
+                <img src={Seeds} alt="Flag logo" />
+                <span>Philanthropy Projects</span>
             </li>
 
               {!user && (
